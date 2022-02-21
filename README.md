@@ -3,7 +3,9 @@
 
 https://docs.5degrees.io/5degrees-protocol-of-web3
 
+### WhitePaper
 
+https://mirror.xyz/0x468f4377E50D669fB4A096022ae7b27CFd14326d/WGYSpnSgePjSc5T5G7lIZoPB6LHP7pE_6wxugg9lMSk
 
 ### References
 
